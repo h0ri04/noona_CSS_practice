@@ -1,0 +1,18 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+.box {
+  border: 50px solid #e74c3c;
+  width: 200px;
+  padding: 50px;
+  margin-bottom: 20px;
+}
+
+.green {
+  border-color: #1abc9c;
+  /* display: none; */
+  /* visibility: hidden; */
+}
+
+.blue {
+  border-color: #2980b9;
+}
